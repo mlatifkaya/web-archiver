@@ -1,0 +1,17 @@
+# Temel asenkron mesajlaşma ve RabbitMQ client
+aio-pika==8.2.1
+
+# Playwright ve Windows için gerekli browser indirme araçları
+playwright==1.34.0
+# Playwright browser dosyalarını indirmek için:
+#   playwright install
+
+# HTML parse ve temizlik
+beautifulsoup4==4.12.0
+lxml==4.9.2
+
+# Ortam değişkenleri yönetimi (örn. .env dosyası için)
+python-dotenv==1.0.0
+
+# İçerik benzerlik hesaplama
+difflib2==0.0.4
