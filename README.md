@@ -1,6 +1,6 @@
 # Web Archiver & Monitor
 
-Basit bir Python mikroservis mimarisiyle web sayfalarını izleyen ve değişiklikleri otomatik arşivleyen proje.
+Basit bir Python mikroservis mimarisiyle web sayfalarını izleyen ve değişiklikleri otomatik arşivleyen mikroservis uygulaması.
 
 ## İçindekiler
 
